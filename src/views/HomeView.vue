@@ -23,7 +23,7 @@
 
 <style scoped>
 .navbar {
-  color: white;
+  color: green;
   height: 20px;
   background-color: black;
   display: flex;
